@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Security Research](README.md)
+* [About me](README.md)
 * [Podcasts](podcasts.md)
+* [Papers](papers.md)
 
