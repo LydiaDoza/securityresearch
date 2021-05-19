@@ -1,13 +1,13 @@
 # Table of contents
 
 * [About me](README.md)
-* [Papers/Related Work](papers.md)
-* [Tools](tools.md)
+* [Security Tools](tools.md)
 * [Misc Resources](misc-resources.md)
 * [Practice/CTFs](practice-ctfs.md)
 
 ## Media I consume
 
+* [Papers/Related Work](media-i-consume/papers.md)
 * [Articles/News](media-i-consume/articles-news.md)
 * [Podcasts](media-i-consume/podcasts.md)
 * [Videos](media-i-consume/videos.md)

@@ -2,7 +2,7 @@
 description: A hodgepodge of security tools
 ---
 
-# Tools
+# Security Tools
 
 | Name | description |
 | :--- | :--- |
