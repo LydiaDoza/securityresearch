@@ -16,5 +16,9 @@ Recently, I have also been elected as the PR/Community Outreach officer of the v
 
 > Promoting security culture, ethics, research, ongoing education, and development of safer code through playing and competing in CTF competitions.
 
+## Research
+
+Currently I am doing research on bringing security into the Continuous Integration/Continuous Deployment \(CI/CD\) process as part of [security shifting left](https://www.paloaltonetworks.com/blog/2019/07/4-practical-steps-shift-left-security/).
+
 
 
