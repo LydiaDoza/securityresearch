@@ -7,4 +7,5 @@
 * [Computerphile](https://www.youtube.com/user/Computerphile/featured)
   * youtube channel about computers and computer stuff
 * [CISA Supply Chain Integrity Month playlist](https://www.youtube.com/playlist?list=PL-BF3N9rHBLLgcRxszwuZ_Opiu9253FqN)
+* [TED Computer Security Tag](https://www.ted.com/topics/cyber+security)
 
