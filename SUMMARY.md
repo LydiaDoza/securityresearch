@@ -6,4 +6,6 @@
 * [Videos](videos.md)
 * [Tools](tools.md)
 * [Misc Resources](misc-resources.md)
+* [Articles/News](articles-news.md)
+* [Practice/CTFs](practice-ctfs.md)
 
