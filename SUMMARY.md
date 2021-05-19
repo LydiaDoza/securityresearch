@@ -2,5 +2,6 @@
 
 * [About me](README.md)
 * [Podcasts](podcasts.md)
-* [Papers](papers.md)
+* [Papers/Related Work](papers.md)
+* [Videos](videos.md)
 
