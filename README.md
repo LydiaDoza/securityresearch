@@ -1,5 +1,5 @@
 ---
-description: Home page for my security research notes
+description: Who I am and what I'm up to.
 ---
 
 # About me
