@@ -12,7 +12,8 @@
 * [Podcasts](media-i-consume/podcasts.md)
 * [Videos](media-i-consume/videos.md)
 
----
+## My socials
 
+* [GitHub](https://github.com/LydiaDoza)
 * [Linkedin](https://www.linkedin.com/in/lydiadoza/)
 
