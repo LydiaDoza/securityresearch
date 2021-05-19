@@ -12,3 +12,7 @@
 * [Podcasts](media-i-consume/podcasts.md)
 * [Videos](media-i-consume/videos.md)
 
+---
+
+* [Linkedin](https://www.linkedin.com/in/lydiadoza/)
+
