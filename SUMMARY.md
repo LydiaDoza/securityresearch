@@ -3,7 +3,8 @@
 * [About me](README.md)
 * [Security Tools](tools.md)
 * [Misc Resources](misc-resources.md)
-* [Practice/CTFs](practice-ctfs.md)
+* [Practice/CTFs](practice-ctfs/README.md)
+  * [Notes on HTTP Request Smuggling](practice-ctfs/notes-on-http-request-smuggling.md)
 
 ## Media I consume
 
