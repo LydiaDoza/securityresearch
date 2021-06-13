@@ -12,7 +12,7 @@ This page contains the notes I took while reading the Portswigger Academy site a
 
 The images found in these notes are also from Portswigger, so that I may refer back to them quickly 
 
-### What is HTTP request smuggling?
+## What is HTTP request smuggling?
 
 A technique to take advantage of vulnerabilities in the way websites process requests to bypass security controls. This allows the unauthorized access to sensitive data and can allow a direct compromise to other application users.
 
