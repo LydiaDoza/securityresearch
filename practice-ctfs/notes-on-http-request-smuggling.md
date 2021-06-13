@@ -94,5 +94,11 @@ Front-end server users `Transfer-Encoding` and the back-end server uses `Content
 
 both front-end and back-end server use `Transfer-Encoding` header, but one of thes ervers can be induced to not process it by obfuscating the header in some way
 
+### How to prevent HTTP request smuggling
 
+* disable reuse of back-end connections, so that each back-end requests uses its own connection
+* Use HTTP/2 for back-end connections, since it prevents ambiguity about the boundaries between requests
+* Use exactly same web server software for front-end and back-end, so they agree about the boundaries between the requests
+* make front-end server normalize ambiguous requests \(not as good due to error-prone nature\)
+* make back-end server reject ambiguous requests \(not as good due to error-prone nature\)
 
