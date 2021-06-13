@@ -5,6 +5,7 @@
 * [Misc Resources](misc-resources.md)
 * [Practice/CTFs](practice-ctfs/README.md)
   * [Notes on HTTP Request Smuggling](practice-ctfs/notes-on-http-request-smuggling.md)
+  * [Finding HTTP request smuggling vulnerabilities](practice-ctfs/finding-http-request-smuggling-vulnerabilities.md)
 
 ## Media I consume
 
