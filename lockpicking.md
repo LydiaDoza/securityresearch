@@ -1,5 +1,11 @@
 # Lockpicking
 
+### Types of locks
+
+* pin and tumbler
+* cam locks
+* * combination
+
 ### lockpick set
 
 My first [lockpick set](https://www.sparrowslockpicks.com/product_p/tux1.htm), the tuxedo set, is from Sparrows. 
@@ -34,7 +40,7 @@ Here are the locks I have, ranked based one the belt ranking system from reddit.
 | Lock name | Solved? |
 | :--- | :--- |
 | Abus myLock | No |
-| Master Lock 140 | No |
+| Master Lock 140 | Yes |
 | Master Magnum M5 | No |
 
 #### 
