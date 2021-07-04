@@ -1,3 +1,7 @@
+---
+description: Only pick locks that you own and aren't in use.
+---
+
 # Lockpicking
 
 ### Types of locks
