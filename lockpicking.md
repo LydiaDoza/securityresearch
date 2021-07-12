@@ -47,5 +47,9 @@ Here are the locks I have, ranked based one the belt ranking system from reddit.
 | Master Lock 140 | Yes |
 | Master Magnum M5 | No |
 
-#### 
+#### Orange Belt
+
+| Lock Name | Solved? |
+| :--- | :--- |
+| Master Lock 150 | No |
 
