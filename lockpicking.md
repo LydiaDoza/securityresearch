@@ -37,7 +37,7 @@ Here are the locks I have, ranked based one the belt ranking system from reddit.
 | Bell Padlock \(can't find official model\)\(5 pins\) | Yes |
 | Master Lock \#1 | Yes |
 | Master Lock \#3 | Yes |
-| Master Lock \#7 | No |
+| Master Lock \#7 | Yes |
 
 #### Yellow Belt
 
