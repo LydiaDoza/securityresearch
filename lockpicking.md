@@ -51,5 +51,5 @@ Here are the locks I have, ranked based one the belt ranking system from reddit.
 
 | Lock Name | Solved? |
 | :--- | :--- |
-| Master Lock 150 | No |
+| Master Lock 150 | Yes |
 
