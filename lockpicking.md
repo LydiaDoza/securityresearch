@@ -43,7 +43,7 @@ Here are the locks I have, ranked based one the belt ranking system from reddit.
 
 | Lock name | Solved? |
 | :--- | :--- |
-| Abus myLock | No |
+| Abus myLock | Yes |
 | Master Lock 140 | Yes |
 | Master Magnum M5 | No |
 
