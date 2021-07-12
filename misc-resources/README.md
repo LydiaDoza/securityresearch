@@ -10,5 +10,7 @@
 
 [National Initiative for Cyber Security Careers and Studies ](https://niccs.cisa.gov/workforce-development/cyber-career-pathways)
 
+[https://unit42.paloaltonetworks.com/](https://unit42.paloaltonetworks.com/)
+
 
 
